@@ -1,1 +1,1 @@
-# summer_workshops_2019
+# Summer Workshops 2019
