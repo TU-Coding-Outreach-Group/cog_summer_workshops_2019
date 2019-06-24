@@ -1,7 +1,7 @@
 # Jupyter Notebook Introduction
 
 ## Materials
-* You will need a laptop with jupyter notebook installed
+* You will need a laptop with jupyter notebook and R installed
 * You can install jupyter by [itself](https://jupyter.org/install), or you can install [anaconda](https://www.anaconda.com/distribution/) (recommended), which includes jupyter, python (with the spyder IDE), and Rstudio
 
 ## To-do before workshop
