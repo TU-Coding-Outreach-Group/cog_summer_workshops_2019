@@ -9,4 +9,6 @@
 2. Open the .ipynb file with Jupyter
 3. Run the first cell to install the relevant packages for this tutorial. If you have anaconda installed, you should have some of the required python packges for this workshop
 
-
+## Note about jupyter notebook
+* If you have not used jupyter notebook before, it may be helpful to review the jupyter_introduction workshop notebook. There are also instructions on there to install the R kernal in jupyter.
+* If you do not wish to use jupyter, and would rather complete this tutorial in Rstudio, you can copy and post all of the R code into an R script
