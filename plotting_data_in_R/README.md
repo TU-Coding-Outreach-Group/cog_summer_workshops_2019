@@ -7,7 +7,6 @@
 ## To-do before workshop
 1. Download the "Tutorial Data.csv" and the "Exploratory Plotting in R Tutorial.ipynb" files in this folder and save these files in one location
 2. Open the .ipynb file with Jupyter
-3. Run the first cell to install the relevant packages for this tutorial
-#4. If you have anaconda installed, you should have some of the required python packges for this workshop
+3. Run the first cell to install the relevant packages for this tutorial. If you have anaconda installed, you should have some of the required python packges for this workshop
 
 
