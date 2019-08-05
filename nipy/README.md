@@ -1,4 +1,4 @@
-# Nipy Workshops
+# Nipy Workshop
 
 ## Materials
 * You will need a laptop with jupyter notebook installed
