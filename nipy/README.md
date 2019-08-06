@@ -10,7 +10,7 @@
 
 
 ## Note about jupyter notebook
-* If you have not used jupyter notebook before, it may be helpful to review the jupyter_introduction workshop notebook. There are also instructions on there to install the R kernal in jupyter.
+* If you have not used jupyter notebook before, it may be helpful to review the jupyter_introduction workshop notebook. 
 
 
 
