@@ -6,7 +6,7 @@
 
 ## To-do before workshop
 1. Download the [wkshp.zip](https://drive.google.com/a/temple.edu/file/d/12tD2mreljgs_4aEc7ligF-6ArZV00T69/view?usp=drive_web) file.
-2. Install [pip](https://pip.pypa.io/en/stable/installing/)
+2. Install [nilearn](https://nilearn.github.io/introduction.html#installing-nilearn)
 
 
 ## Note about jupyter notebook
